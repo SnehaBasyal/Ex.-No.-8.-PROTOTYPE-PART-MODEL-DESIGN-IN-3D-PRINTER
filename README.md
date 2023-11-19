@@ -45,10 +45,16 @@
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
 
-## Output:
+## OUTPUT:
 
-### Name:
-### Register Number:
+![Ex.No.8-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER](empd81.png)
+<br>
+
+![Ex.No.8-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER](empd82.png)
+<br>
+
+### Name: Sneha Basyal M
+### Register Number: 212222240101
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
